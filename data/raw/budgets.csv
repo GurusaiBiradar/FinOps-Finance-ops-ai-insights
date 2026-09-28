@@ -1,0 +1,433 @@
+department,category,month,budget_amount
+Finance,Consulting,2025-09,15502.53
+Finance,Software & IT Services,2025-09,13813.47
+Finance,Facilities,2025-09,28614.34
+Finance,Travel,2025-09,10759.68
+Finance,Office Supplies,2025-09,18258.04
+Finance,Professional Services,2025-09,17692.44
+IT,Consulting,2025-09,17286.8
+IT,Software & IT Services,2025-09,15142.06
+IT,Facilities,2025-09,9173.16
+IT,Travel,2025-09,20404.47
+IT,Office Supplies,2025-09,11370.31
+IT,Professional Services,2025-09,32901.98
+Marketing,Consulting,2025-09,10127.61
+Marketing,Software & IT Services,2025-09,15915.81
+Marketing,Facilities,2025-09,24973.27
+Marketing,Travel,2025-09,31907.2
+Marketing,Office Supplies,2025-09,17764.15
+Marketing,Professional Services,2025-09,13191.79
+Operations,Consulting,2025-09,9877.99
+Operations,Software & IT Services,2025-09,25854.11
+Operations,Facilities,2025-09,28872.85
+Operations,Travel,2025-09,34600.98
+Operations,Office Supplies,2025-09,31093.58
+Operations,Professional Services,2025-09,31395.06
+HR,Consulting,2025-09,18263.41
+HR,Software & IT Services,2025-09,20242.08
+HR,Facilities,2025-09,30520.98
+HR,Travel,2025-09,12391.66
+HR,Office Supplies,2025-09,17592.31
+HR,Professional Services,2025-09,26094.73
+Legal,Consulting,2025-09,26949.15
+Legal,Software & IT Services,2025-09,26455.79
+Legal,Facilities,2025-09,9927.87
+Legal,Travel,2025-09,25144.41
+Legal,Office Supplies,2025-09,22421.78
+Legal,Professional Services,2025-09,14609.89
+Finance,Consulting,2025-10,20481.03
+Finance,Software & IT Services,2025-10,15288.59
+Finance,Facilities,2025-10,32985.56
+Finance,Travel,2025-10,26580.37
+Finance,Office Supplies,2025-10,13929.61
+Finance,Professional Services,2025-10,16755.63
+IT,Consulting,2025-10,28744.47
+IT,Software & IT Services,2025-10,9510.32
+IT,Facilities,2025-10,30188.67
+IT,Travel,2025-10,29736.24
+IT,Office Supplies,2025-10,18831.45
+IT,Professional Services,2025-10,9787.09
+Marketing,Consulting,2025-10,32654.68
+Marketing,Software & IT Services,2025-10,23313.86
+Marketing,Facilities,2025-10,27383.69
+Marketing,Travel,2025-10,13740.92
+Marketing,Office Supplies,2025-10,21479.24
+Marketing,Professional Services,2025-10,31886.45
+Operations,Consulting,2025-10,25357.0
+Operations,Software & IT Services,2025-10,11857.53
+Operations,Facilities,2025-10,11770.02
+Operations,Travel,2025-10,28114.7
+Operations,Office Supplies,2025-10,22552.39
+Operations,Professional Services,2025-10,28169.37
+HR,Consulting,2025-10,19567.71
+HR,Software & IT Services,2025-10,23755.39
+HR,Facilities,2025-10,17773.9
+HR,Travel,2025-10,34927.8
+HR,Office Supplies,2025-10,11734.96
+HR,Professional Services,2025-10,21324.93
+Legal,Consulting,2025-10,28406.12
+Legal,Software & IT Services,2025-10,31249.78
+Legal,Facilities,2025-10,12126.72
+Legal,Travel,2025-10,12319.51
+Legal,Office Supplies,2025-10,26372.99
+Legal,Professional Services,2025-10,24103.04
+Finance,Consulting,2025-11,18388.72
+Finance,Software & IT Services,2025-11,24088.99
+Finance,Facilities,2025-11,20637.35
+Finance,Travel,2025-11,14788.18
+Finance,Office Supplies,2025-11,22937.1
+Finance,Professional Services,2025-11,33445.63
+IT,Consulting,2025-11,26367.65
+IT,Software & IT Services,2025-11,11092.9
+IT,Facilities,2025-11,31889.29
+IT,Travel,2025-11,28273.7
+IT,Office Supplies,2025-11,28752.17
+IT,Professional Services,2025-11,17184.74
+Marketing,Consulting,2025-11,15924.5
+Marketing,Software & IT Services,2025-11,12270.26
+Marketing,Facilities,2025-11,8087.62
+Marketing,Travel,2025-11,27496.49
+Marketing,Office Supplies,2025-11,27431.38
+Marketing,Professional Services,2025-11,34240.98
+Operations,Consulting,2025-11,28572.98
+Operations,Software & IT Services,2025-11,21707.41
+Operations,Facilities,2025-11,10873.09
+Operations,Travel,2025-11,24883.11
+Operations,Office Supplies,2025-11,30725.07
+Operations,Professional Services,2025-11,21706.9
+HR,Consulting,2025-11,13370.6
+HR,Software & IT Services,2025-11,18095.67
+HR,Facilities,2025-11,12361.82
+HR,Travel,2025-11,33744.49
+HR,Office Supplies,2025-11,32905.72
+HR,Professional Services,2025-11,32799.32
+Legal,Consulting,2025-11,24171.5
+Legal,Software & IT Services,2025-11,21192.35
+Legal,Facilities,2025-11,11020.43
+Legal,Travel,2025-11,17800.48
+Legal,Office Supplies,2025-11,34603.68
+Legal,Professional Services,2025-11,29782.92
+Finance,Consulting,2025-12,14465.21
+Finance,Software & IT Services,2025-12,14503.53
+Finance,Facilities,2025-12,23318.64
+Finance,Travel,2025-12,10126.44
+Finance,Office Supplies,2025-12,27761.51
+Finance,Professional Services,2025-12,30032.63
+IT,Consulting,2025-12,34405.58
+IT,Software & IT Services,2025-12,22383.07
+IT,Facilities,2025-12,11395.53
+IT,Travel,2025-12,25813.27
+IT,Office Supplies,2025-12,33564.91
+IT,Professional Services,2025-12,12458.43
+Marketing,Consulting,2025-12,22247.19
+Marketing,Software & IT Services,2025-12,24378.04
+Marketing,Facilities,2025-12,34037.8
+Marketing,Travel,2025-12,33080.66
+Marketing,Office Supplies,2025-12,28392.16
+Marketing,Professional Services,2025-12,26626.43
+Operations,Consulting,2025-12,27249.62
+Operations,Software & IT Services,2025-12,18772.79
+Operations,Facilities,2025-12,26135.55
+Operations,Travel,2025-12,18082.35
+Operations,Office Supplies,2025-12,32289.58
+Operations,Professional Services,2025-12,20190.13
+HR,Consulting,2025-12,14693.45
+HR,Software & IT Services,2025-12,9728.7
+HR,Facilities,2025-12,8567.93
+HR,Travel,2025-12,22955.88
+HR,Office Supplies,2025-12,23887.88
+HR,Professional Services,2025-12,8194.15
+Legal,Consulting,2025-12,27111.71
+Legal,Software & IT Services,2025-12,9589.59
+Legal,Facilities,2025-12,9819.81
+Legal,Travel,2025-12,8848.15
+Legal,Office Supplies,2025-12,16921.57
+Legal,Professional Services,2025-12,21882.22
+Finance,Consulting,2026-01,15518.89
+Finance,Software & IT Services,2026-01,21106.19
+Finance,Facilities,2026-01,22559.32
+Finance,Travel,2026-01,27530.52
+Finance,Office Supplies,2026-01,31824.34
+Finance,Professional Services,2026-01,23557.71
+IT,Consulting,2026-01,14560.93
+IT,Software & IT Services,2026-01,20770.27
+IT,Facilities,2026-01,18990.62
+IT,Travel,2026-01,10546.8
+IT,Office Supplies,2026-01,25792.53
+IT,Professional Services,2026-01,17566.03
+Marketing,Consulting,2026-01,19099.76
+Marketing,Software & IT Services,2026-01,31323.59
+Marketing,Facilities,2026-01,9462.62
+Marketing,Travel,2026-01,25643.3
+Marketing,Office Supplies,2026-01,25446.85
+Marketing,Professional Services,2026-01,9636.54
+Operations,Consulting,2026-01,27661.77
+Operations,Software & IT Services,2026-01,29616.0
+Operations,Facilities,2026-01,10950.26
+Operations,Travel,2026-01,13172.93
+Operations,Office Supplies,2026-01,22479.72
+Operations,Professional Services,2026-01,11784.92
+HR,Consulting,2026-01,12954.18
+HR,Software & IT Services,2026-01,20490.96
+HR,Facilities,2026-01,31611.12
+HR,Travel,2026-01,10035.39
+HR,Office Supplies,2026-01,29816.6
+HR,Professional Services,2026-01,31111.11
+Legal,Consulting,2026-01,10643.54
+Legal,Software & IT Services,2026-01,25607.91
+Legal,Facilities,2026-01,22595.87
+Legal,Travel,2026-01,8398.46
+Legal,Office Supplies,2026-01,10518.09
+Legal,Professional Services,2026-01,28346.27
+Finance,Consulting,2026-02,14382.25
+Finance,Software & IT Services,2026-02,18973.18
+Finance,Facilities,2026-02,20996.68
+Finance,Travel,2026-02,31345.56
+Finance,Office Supplies,2026-02,32365.96
+Finance,Professional Services,2026-02,12445.2
+IT,Consulting,2026-02,8058.2
+IT,Software & IT Services,2026-02,18541.39
+IT,Facilities,2026-02,33015.99
+IT,Travel,2026-02,29198.49
+IT,Office Supplies,2026-02,15701.73
+IT,Professional Services,2026-02,26807.97
+Marketing,Consulting,2026-02,27723.64
+Marketing,Software & IT Services,2026-02,29150.76
+Marketing,Facilities,2026-02,25870.53
+Marketing,Travel,2026-02,21140.13
+Marketing,Office Supplies,2026-02,13127.24
+Marketing,Professional Services,2026-02,13877.92
+Operations,Consulting,2026-02,9579.05
+Operations,Software & IT Services,2026-02,27864.9
+Operations,Facilities,2026-02,9645.85
+Operations,Travel,2026-02,16467.33
+Operations,Office Supplies,2026-02,9353.84
+Operations,Professional Services,2026-02,20873.29
+HR,Consulting,2026-02,32823.45
+HR,Software & IT Services,2026-02,22340.41
+HR,Facilities,2026-02,9535.75
+HR,Travel,2026-02,21711.37
+HR,Office Supplies,2026-02,30986.25
+HR,Professional Services,2026-02,9850.08
+Legal,Consulting,2026-02,9834.94
+Legal,Software & IT Services,2026-02,31269.12
+Legal,Facilities,2026-02,18901.94
+Legal,Travel,2026-02,33423.1
+Legal,Office Supplies,2026-02,23381.24
+Legal,Professional Services,2026-02,23630.81
+Finance,Consulting,2026-03,9073.02
+Finance,Software & IT Services,2026-03,10213.55
+Finance,Facilities,2026-03,25749.08
+Finance,Travel,2026-03,23261.13
+Finance,Office Supplies,2026-03,16541.99
+Finance,Professional Services,2026-03,15040.67
+IT,Consulting,2026-03,26082.6
+IT,Software & IT Services,2026-03,16482.96
+IT,Facilities,2026-03,15171.59
+IT,Travel,2026-03,11533.71
+IT,Office Supplies,2026-03,25428.52
+IT,Professional Services,2026-03,20345.06
+Marketing,Consulting,2026-03,33083.49
+Marketing,Software & IT Services,2026-03,33264.83
+Marketing,Facilities,2026-03,8251.52
+Marketing,Travel,2026-03,24771.3
+Marketing,Office Supplies,2026-03,23200.83
+Marketing,Professional Services,2026-03,10699.49
+Operations,Consulting,2026-03,22516.13
+Operations,Software & IT Services,2026-03,21658.89
+Operations,Facilities,2026-03,11576.33
+Operations,Travel,2026-03,17423.24
+Operations,Office Supplies,2026-03,9857.37
+Operations,Professional Services,2026-03,14595.68
+HR,Consulting,2026-03,15694.66
+HR,Software & IT Services,2026-03,19830.98
+HR,Facilities,2026-03,22666.88
+HR,Travel,2026-03,16167.96
+HR,Office Supplies,2026-03,34564.04
+HR,Professional Services,2026-03,29791.7
+Legal,Consulting,2026-03,22281.4
+Legal,Software & IT Services,2026-03,26032.31
+Legal,Facilities,2026-03,22974.26
+Legal,Travel,2026-03,33157.41
+Legal,Office Supplies,2026-03,10796.84
+Legal,Professional Services,2026-03,31709.43
+Finance,Consulting,2026-04,15140.58
+Finance,Software & IT Services,2026-04,32022.24
+Finance,Facilities,2026-04,28045.25
+Finance,Travel,2026-04,12197.09
+Finance,Office Supplies,2026-04,15607.42
+Finance,Professional Services,2026-04,13687.0
+IT,Consulting,2026-04,17257.77
+IT,Software & IT Services,2026-04,26562.42
+IT,Facilities,2026-04,31028.65
+IT,Travel,2026-04,21646.04
+IT,Office Supplies,2026-04,14780.27
+IT,Professional Services,2026-04,32520.29
+Marketing,Consulting,2026-04,9371.57
+Marketing,Software & IT Services,2026-04,25125.68
+Marketing,Facilities,2026-04,30392.4
+Marketing,Travel,2026-04,9190.34
+Marketing,Office Supplies,2026-04,17006.03
+Marketing,Professional Services,2026-04,11532.13
+Operations,Consulting,2026-04,34454.54
+Operations,Software & IT Services,2026-04,12362.71
+Operations,Facilities,2026-04,19929.56
+Operations,Travel,2026-04,27053.02
+Operations,Office Supplies,2026-04,23144.49
+Operations,Professional Services,2026-04,11020.59
+HR,Consulting,2026-04,33516.38
+HR,Software & IT Services,2026-04,26657.53
+HR,Facilities,2026-04,12024.47
+HR,Travel,2026-04,8972.76
+HR,Office Supplies,2026-04,17968.83
+HR,Professional Services,2026-04,22918.18
+Legal,Consulting,2026-04,19604.24
+Legal,Software & IT Services,2026-04,9129.38
+Legal,Facilities,2026-04,17845.59
+Legal,Travel,2026-04,33193.38
+Legal,Office Supplies,2026-04,34249.3
+Legal,Professional Services,2026-04,9077.16
+Finance,Consulting,2026-05,17660.85
+Finance,Software & IT Services,2026-05,26415.8
+Finance,Facilities,2026-05,26007.2
+Finance,Travel,2026-05,17549.32
+Finance,Office Supplies,2026-05,23116.86
+Finance,Professional Services,2026-05,31617.24
+IT,Consulting,2026-05,34293.6
+IT,Software & IT Services,2026-05,28235.9
+IT,Facilities,2026-05,32995.62
+IT,Travel,2026-05,14391.91
+IT,Office Supplies,2026-05,12387.55
+IT,Professional Services,2026-05,29596.95
+Marketing,Consulting,2026-05,12780.41
+Marketing,Software & IT Services,2026-05,19131.95
+Marketing,Facilities,2026-05,12842.74
+Marketing,Travel,2026-05,32961.16
+Marketing,Office Supplies,2026-05,29124.44
+Marketing,Professional Services,2026-05,19116.26
+Operations,Consulting,2026-05,26087.49
+Operations,Software & IT Services,2026-05,27846.55
+Operations,Facilities,2026-05,14700.52
+Operations,Travel,2026-05,12298.34
+Operations,Office Supplies,2026-05,26934.51
+Operations,Professional Services,2026-05,18328.63
+HR,Consulting,2026-05,9045.56
+HR,Software & IT Services,2026-05,20708.63
+HR,Facilities,2026-05,13388.47
+HR,Travel,2026-05,32798.2
+HR,Office Supplies,2026-05,17440.78
+HR,Professional Services,2026-05,30154.48
+Legal,Consulting,2026-05,31525.72
+Legal,Software & IT Services,2026-05,14018.94
+Legal,Facilities,2026-05,25820.9
+Legal,Travel,2026-05,18758.58
+Legal,Office Supplies,2026-05,15522.28
+Legal,Professional Services,2026-05,9874.36
+Finance,Consulting,2026-06,28879.82
+Finance,Software & IT Services,2026-06,17480.95
+Finance,Facilities,2026-06,21753.95
+Finance,Travel,2026-06,26346.99
+Finance,Office Supplies,2026-06,30778.85
+Finance,Professional Services,2026-06,16941.05
+IT,Consulting,2026-06,8745.21
+IT,Software & IT Services,2026-06,31680.04
+IT,Facilities,2026-06,15052.81
+IT,Travel,2026-06,23675.92
+IT,Office Supplies,2026-06,34555.87
+IT,Professional Services,2026-06,9032.94
+Marketing,Consulting,2026-06,24107.42
+Marketing,Software & IT Services,2026-06,17333.55
+Marketing,Facilities,2026-06,29233.56
+Marketing,Travel,2026-06,19782.63
+Marketing,Office Supplies,2026-06,34574.37
+Marketing,Professional Services,2026-06,11122.44
+Operations,Consulting,2026-06,32286.63
+Operations,Software & IT Services,2026-06,13132.13
+Operations,Facilities,2026-06,9198.44
+Operations,Travel,2026-06,19773.55
+Operations,Office Supplies,2026-06,22037.85
+Operations,Professional Services,2026-06,29775.79
+HR,Consulting,2026-06,26545.14
+HR,Software & IT Services,2026-06,33387.1
+HR,Facilities,2026-06,27900.02
+HR,Travel,2026-06,13319.95
+HR,Office Supplies,2026-06,19645.03
+HR,Professional Services,2026-06,33619.61
+Legal,Consulting,2026-06,32860.81
+Legal,Software & IT Services,2026-06,24825.2
+Legal,Facilities,2026-06,25911.46
+Legal,Travel,2026-06,11364.88
+Legal,Office Supplies,2026-06,32301.26
+Legal,Professional Services,2026-06,21692.31
+Finance,Consulting,2026-07,26006.11
+Finance,Software & IT Services,2026-07,16806.94
+Finance,Facilities,2026-07,26824.63
+Finance,Travel,2026-07,22969.14
+Finance,Office Supplies,2026-07,13179.68
+Finance,Professional Services,2026-07,25953.09
+IT,Consulting,2026-07,18236.92
+IT,Software & IT Services,2026-07,28199.63
+IT,Facilities,2026-07,12698.74
+IT,Travel,2026-07,23365.84
+IT,Office Supplies,2026-07,18964.03
+IT,Professional Services,2026-07,30510.58
+Marketing,Consulting,2026-07,16204.62
+Marketing,Software & IT Services,2026-07,13674.93
+Marketing,Facilities,2026-07,29215.49
+Marketing,Travel,2026-07,24379.86
+Marketing,Office Supplies,2026-07,16700.73
+Marketing,Professional Services,2026-07,19928.22
+Operations,Consulting,2026-07,26241.94
+Operations,Software & IT Services,2026-07,21801.7
+Operations,Facilities,2026-07,29430.86
+Operations,Travel,2026-07,33915.46
+Operations,Office Supplies,2026-07,27870.96
+Operations,Professional Services,2026-07,25788.97
+HR,Consulting,2026-07,15662.23
+HR,Software & IT Services,2026-07,25924.05
+HR,Facilities,2026-07,24720.04
+HR,Travel,2026-07,10521.45
+HR,Office Supplies,2026-07,33703.99
+HR,Professional Services,2026-07,14341.45
+Legal,Consulting,2026-07,16381.33
+Legal,Software & IT Services,2026-07,29777.2
+Legal,Facilities,2026-07,11978.56
+Legal,Travel,2026-07,9247.77
+Legal,Office Supplies,2026-07,34566.27
+Legal,Professional Services,2026-07,24504.4
+Finance,Consulting,2026-08,28749.21
+Finance,Software & IT Services,2026-08,20296.24
+Finance,Facilities,2026-08,31925.7
+Finance,Travel,2026-08,23543.11
+Finance,Office Supplies,2026-08,27395.34
+Finance,Professional Services,2026-08,18367.42
+IT,Consulting,2026-08,18790.63
+IT,Software & IT Services,2026-08,11984.43
+IT,Facilities,2026-08,26565.81
+IT,Travel,2026-08,32101.82
+IT,Office Supplies,2026-08,31231.9
+IT,Professional Services,2026-08,31907.56
+Marketing,Consulting,2026-08,29017.35
+Marketing,Software & IT Services,2026-08,13908.71
+Marketing,Facilities,2026-08,29710.97
+Marketing,Travel,2026-08,26789.62
+Marketing,Office Supplies,2026-08,20542.85
+Marketing,Professional Services,2026-08,23049.96
+Operations,Consulting,2026-08,32771.69
+Operations,Software & IT Services,2026-08,11276.68
+Operations,Facilities,2026-08,11600.16
+Operations,Travel,2026-08,20545.37
+Operations,Office Supplies,2026-08,22340.56
+Operations,Professional Services,2026-08,23090.98
+HR,Consulting,2026-08,16567.04
+HR,Software & IT Services,2026-08,28391.75
+HR,Facilities,2026-08,19949.48
+HR,Travel,2026-08,30005.18
+HR,Office Supplies,2026-08,32084.55
+HR,Professional Services,2026-08,19522.0
+Legal,Consulting,2026-08,32485.08
+Legal,Software & IT Services,2026-08,20039.67
+Legal,Facilities,2026-08,12297.26
+Legal,Travel,2026-08,31260.36
+Legal,Office Supplies,2026-08,20151.88
+Legal,Professional Services,2026-08,28297.97

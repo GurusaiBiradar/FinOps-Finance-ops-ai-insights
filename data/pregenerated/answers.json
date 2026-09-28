@@ -1,0 +1,32 @@
+{
+  "5c6396c931a36a60ee2fcf6f0ffbe2c881266bb6c2fa5defa4b60b56e8437adc": {
+    "question": "Give a short company-wide briefing: overall spend, the biggest budget overruns, duplicate payments, and processing delays.",
+    "text": "Company-wide spend currently stands at 3699592.0 across all departments, with an overall average processing time of 10.0 days. A total of 50 budget overrun anomalies were flagged, led by Marketing's Travel budget in 2026-04 with a 125.84% variance (11564.84 over budget) and HR's Office Supplies in 2026-02 with the largest variance amount of 17029.73. On the compliance and controls side, the data highlights 100 duplicate payment anomalies requiring review. Finally, operational workflow monitoring identified 78 processing time outliers exceeding standard turnaround times.",
+    "model": "gemini-3.8-flash",
+    "generated_on": "2026-09-28"
+  },
+  "ab66cd03b8b5faaad3b0edfee778a8b908e4deed0fcdc7673db515d92edb2c5a": {
+    "question": "Any budget overruns?",
+    "text": "Yes, there are significant budget overruns identified within the vendor invoice data. The system has flagged a total of 50 budget overrun anomalies across various departments and categories. Notable variances include the Marketing department's travel expenses in April 2026, which exceeded the budget by 125.84%, and the Legal department's travel expenses in June 2026, which were 72.42% over budget. Detailed records show consistent overspending in categories such as Office Supplies, Software & IT Services, and Professional Services across multiple departments.",
+    "model": "gemini-3.1-flash-lite",
+    "generated_on": "2026-09-28"
+  },
+  "5fda43eee1ad9aa66dbe6c98754ec06f81100936148e46e347964394dd30b124": {
+    "question": "What duplicate payments were found?",
+    "text": "Based on the provided vendor invoice data, a total of 100 duplicate payment anomalies were identified. The available records list specific duplicate pairs, such as Operations invoice INV01115 matching INV02502 for vendor V001 with an amount of 261.74 (1d apart), and Finance invoice INV00892 matching INV02526 for vendor V001 with an amount of 314.16 (0d apart). Additional pairs include Consulting and Facilities invoices across the Operations, Finance, Marketing, and Legal departments involving vendors V002, V003, V005, and V006. The dataset lists the first 15 individual anomaly records out of the 100 total detected instances for review.",
+    "model": "gemini-3.5-flash-lite",
+    "generated_on": "2026-09-28"
+  },
+  "294186d374219016f1d19e42471d277cfbf6f4d7360030c30fa6eba540cee5d4": {
+    "question": "How much did we spend on Consulting?",
+    "text": "Total spend on Consulting is 754,207.59, with a total invoice count of 560. Departmental breakdowns include HR at 144,213.37 (92 invoices), Operations at 140,500.15 (111 invoices), and Marketing at 131,663.02 (99 invoices). Additional departmental spend comprises Finance at 130,745.52 (88 invoices), Legal at 103,910.14 (93 invoices), and IT at 103,175.39 (77 invoices).",
+    "model": "gemini-3.5-flash-lite",
+    "generated_on": "2026-09-28"
+  },
+  "1f5817eaeb5dc6d89f571d680adaa1ac7b8dfe5dcb89e7695532994c26511aa2": {
+    "question": "Where are invoices getting delayed?",
+    "text": "Based on the provided vendor invoice data, there are 78 processing time outlier anomalies identified across the organization, against an average processing time of 10.0 days. The records show specific delays spanning multiple departments, including IT, Marketing, Finance, Legal, Operations, and HR. Detailed examples include invoice INV00270 in Legal taking 82 days, invoice INV00236 in Marketing taking 81 days, and invoice INV00531 in Finance taking 88 days. All listed anomalies exceeded the established processing fence of 29.0 days.",
+    "model": "gemini-3.5-flash-lite",
+    "generated_on": "2026-09-28"
+  }
+}

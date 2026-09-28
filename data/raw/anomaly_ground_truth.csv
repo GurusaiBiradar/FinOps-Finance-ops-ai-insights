@@ -1,0 +1,169 @@
+anomaly_type,invoice_id,department,category,month,detail
+duplicate_payment,INV02501,,,,duplicate of INV01448
+duplicate_payment,INV02502,,,,duplicate of INV01115
+duplicate_payment,INV02503,,,,duplicate of INV01065
+duplicate_payment,INV02504,,,,duplicate of INV02288
+duplicate_payment,INV02505,,,,duplicate of INV01538
+duplicate_payment,INV02506,,,,duplicate of INV00669
+duplicate_payment,INV02507,,,,duplicate of INV01584
+duplicate_payment,INV02508,,,,duplicate of INV02405
+duplicate_payment,INV02509,,,,duplicate of INV00498
+duplicate_payment,INV02510,,,,duplicate of INV02481
+duplicate_payment,INV02511,,,,duplicate of INV00472
+duplicate_payment,INV02512,,,,duplicate of INV00247
+duplicate_payment,INV02513,,,,duplicate of INV00924
+duplicate_payment,INV02514,,,,duplicate of INV01132
+duplicate_payment,INV02515,,,,duplicate of INV00671
+duplicate_payment,INV02516,,,,duplicate of INV00917
+duplicate_payment,INV02517,,,,duplicate of INV01415
+duplicate_payment,INV02518,,,,duplicate of INV01607
+duplicate_payment,INV02519,,,,duplicate of INV00403
+duplicate_payment,INV02520,,,,duplicate of INV01104
+duplicate_payment,INV02521,,,,duplicate of INV02073
+duplicate_payment,INV02522,,,,duplicate of INV00720
+duplicate_payment,INV02523,,,,duplicate of INV02012
+duplicate_payment,INV02524,,,,duplicate of INV02437
+duplicate_payment,INV02525,,,,duplicate of INV00197
+duplicate_payment,INV02526,,,,duplicate of INV00892
+duplicate_payment,INV02527,,,,duplicate of INV01265
+duplicate_payment,INV02528,,,,duplicate of INV01035
+duplicate_payment,INV02529,,,,duplicate of INV01326
+duplicate_payment,INV02530,,,,duplicate of INV00510
+duplicate_payment,INV02531,,,,duplicate of INV01428
+duplicate_payment,INV02532,,,,duplicate of INV00195
+duplicate_payment,INV02533,,,,duplicate of INV01180
+duplicate_payment,INV02534,,,,duplicate of INV02033
+duplicate_payment,INV02535,,,,duplicate of INV00933
+duplicate_payment,INV02536,,,,duplicate of INV01125
+duplicate_payment,INV02537,,,,duplicate of INV01823
+duplicate_payment,INV02538,,,,duplicate of INV01367
+duplicate_payment,INV02539,,,,duplicate of INV01993
+duplicate_payment,INV02540,,,,duplicate of INV01259
+duplicate_payment,INV02541,,,,duplicate of INV02275
+duplicate_payment,INV02542,,,,duplicate of INV01274
+duplicate_payment,INV02543,,,,duplicate of INV01937
+duplicate_payment,INV02544,,,,duplicate of INV01267
+duplicate_payment,INV02545,,,,duplicate of INV00773
+duplicate_payment,INV02546,,,,duplicate of INV01609
+duplicate_payment,INV02547,,,,duplicate of INV01312
+duplicate_payment,INV02548,,,,duplicate of INV00135
+duplicate_payment,INV02549,,,,duplicate of INV01856
+duplicate_payment,INV02550,,,,duplicate of INV02400
+processing_time_outlier,INV00244,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02030,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01574,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00819,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00483,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01328,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01475,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02285,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00531,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01237,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01359,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00247,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01882,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00622,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01369,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01827,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02321,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02342,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02471,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00597,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01374,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02207,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01720,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00885,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00693,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02106,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01908,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00783,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01943,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00605,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01680,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02003,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00282,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00891,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00236,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01948,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02341,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02475,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01707,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00714,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00382,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02407,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01805,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02412,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00270,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01248,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00472,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00749,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01327,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01552,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01796,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01696,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02384,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00964,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01767,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01876,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00073,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01301,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00415,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00716,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00545,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01000,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02205,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00428,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00388,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00925,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01959,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01502,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01592,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01637,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01164,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV02247,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00951,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV00554,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01295,,,,submitted-to-paid stretched to 45-90 days
+processing_time_outlier,INV01229,,,,submitted-to-paid stretched to 45-90 days
+budget_overrun,,Operations,Professional Services,2026-02,actual ~31466.79 vs budget 20873.29
+budget_overrun,,Marketing,Office Supplies,2025-09,actual ~26725.48 vs budget 17764.15
+budget_overrun,,Marketing,Software & IT Services,2025-10,actual ~27660.31 vs budget 23313.86
+budget_overrun,,Finance,Travel,2026-05,actual ~27137.94 vs budget 17549.32
+budget_overrun,,IT,Professional Services,2026-06,actual ~13378.62 vs budget 9032.94
+budget_overrun,,Marketing,Office Supplies,2026-08,actual ~24130.98 vs budget 20542.85
+budget_overrun,,Operations,Office Supplies,2026-02,actual ~14735.99 vs budget 9353.84
+budget_overrun,,Legal,Software & IT Services,2026-01,actual ~37223.51 vs budget 25607.91
+budget_overrun,,HR,Office Supplies,2026-02,actual ~48015.98 vs budget 30986.25
+budget_overrun,,Marketing,Software & IT Services,2026-08,actual ~16689.56 vs budget 13908.71
+budget_overrun,,HR,Consulting,2026-02,actual ~43146.94 vs budget 32823.45
+budget_overrun,,Marketing,Office Supplies,2025-11,actual ~39188.74 vs budget 27431.38
+budget_overrun,,Legal,Facilities,2025-10,actual ~15940.66 vs budget 12126.72
+budget_overrun,,IT,Software & IT Services,2025-12,actual ~27505.89 vs budget 22383.07
+budget_overrun,,HR,Software & IT Services,2026-01,actual ~28717.17 vs budget 20490.96
+budget_overrun,,Legal,Professional Services,2025-10,actual ~28445.25 vs budget 24103.04
+budget_overrun,,HR,Travel,2026-01,actual ~14744.01 vs budget 10035.39
+budget_overrun,,Finance,Professional Services,2026-05,actual ~39272.43 vs budget 31617.24
+budget_overrun,,Marketing,Office Supplies,2026-02,actual ~20892.83 vs budget 13127.24
+budget_overrun,,Finance,Professional Services,2026-06,actual ~21301.42 vs budget 16941.05
+budget_overrun,,Operations,Consulting,2026-01,actual ~33224.57 vs budget 27661.77
+budget_overrun,,Legal,Professional Services,2026-03,actual ~43293.59 vs budget 31709.43
+budget_overrun,,IT,Office Supplies,2026-02,actual ~24692.81 vs budget 15701.73
+budget_overrun,,IT,Consulting,2026-07,actual ~25733.27 vs budget 18236.92
+budget_overrun,,Legal,Facilities,2026-07,actual ~18945.25 vs budget 11978.56
+budget_overrun,,Operations,Travel,2026-08,actual ~25566.82 vs budget 20545.37
+budget_overrun,,IT,Software & IT Services,2025-09,actual ~22489.86 vs budget 15142.06
+budget_overrun,,Operations,Professional Services,2026-04,actual ~13791.70 vs budget 11020.59
+budget_overrun,,IT,Facilities,2026-03,actual ~19855.37 vs budget 15171.59
+budget_overrun,,IT,Professional Services,2026-08,actual ~40532.53 vs budget 31907.56
+budget_overrun,,HR,Travel,2025-12,actual ~33426.11 vs budget 22955.88
+budget_overrun,,Operations,Travel,2026-06,actual ~25205.65 vs budget 19773.55
+budget_overrun,,Legal,Professional Services,2026-07,actual ~28878.83 vs budget 24504.40
+budget_overrun,,Legal,Software & IT Services,2026-04,actual ~11917.05 vs budget 9129.38
+budget_overrun,,Marketing,Consulting,2026-06,actual ~32998.29 vs budget 24107.42
+budget_overrun,,Finance,Facilities,2026-08,actual ~44281.17 vs budget 31925.70
+budget_overrun,,Finance,Facilities,2026-04,actual ~33800.67 vs budget 28045.25
+budget_overrun,,Marketing,Software & IT Services,2025-11,actual ~18030.18 vs budget 12270.26
+budget_overrun,,Marketing,Travel,2026-01,actual ~37317.12 vs budget 25643.30
+budget_overrun,,Legal,Software & IT Services,2025-12,actual ~13327.47 vs budget 9589.59
+budget_overrun,,IT,Travel,2026-01,actual ~13515.91 vs budget 10546.80
+budget_overrun,,Finance,Consulting,2026-07,actual ~37173.86 vs budget 26006.11
