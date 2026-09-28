@@ -2,13 +2,16 @@
 
 **Vendor-invoice analytics where pandas computes every number and an LLM only narrates them — so every AI answer can be checked against the exact facts it was given.**
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finops-finance-ops-ai-insights.streamlit.app/)
+[![CI](https://github.com/GurusaiBiradar/FinOps-Finance-ops-ai-insights/actions/workflows/ci.yml/badge.svg)](https://github.com/GurusaiBiradar/FinOps-Finance-ops-ai-insights/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-deterministic_KPIs-150458?logo=pandas&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-grounded_narration-8E75B2?logo=googlegemini&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
-![pytest](https://img.shields.io/badge/tests-pytest_+_GitHub_Actions-0A9EDC?logo=pytest&logoColor=white)
 
-**Live demo:** _link added once deployed on Streamlit Community Cloud_
+### ▶ [Try the live demo](https://finops-finance-ops-ai-insights.streamlit.app/)
+
+_No sign-up needed. If the app has been idle it may show a "wake up" button first — that takes about 30 seconds._
 
 ![Overview tab: KPI cards, the three-step explainer, AI briefing and spend charts](docs/screenshots/overview.png)
 
@@ -89,8 +92,8 @@ Two tuning decisions worth calling out:
 ## Run it locally
 
 ```powershell
-git clone <repo-url>
-cd finance-ops-ai-insights
+git clone https://github.com/GurusaiBiradar/FinOps-Finance-ops-ai-insights.git
+cd FinOps-Finance-ops-ai-insights
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
